@@ -37,12 +37,12 @@ public class FirstClass {
 	 //Printing out e-Book
 	 System.out.printf("Book Type: " + eBook + "with %d pages (%s) \n", eBook.pages(), eBook.getFormat());
 	 
-	 
+
 	
 
-		     }
+    }
 	
-		 }
+}
 	
 	
 
