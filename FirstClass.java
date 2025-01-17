@@ -6,7 +6,7 @@ public class FirstClass {
 		 		 
 		 
 	// Creating User class object named user. 
-	 User user = new User("Kwanele Ntshele", "2003-06-07"); 
+	 User user = new User("Kwanele Ntshele", "2009-06-07"); 
 	 
 	// Creating Book class object named book.
 	 Book book = new Book("Head First Java", "Bert Bates and Kathy Sierra", 2005, 788 ); 
@@ -36,9 +36,6 @@ public class FirstClass {
 	 
 	 //Printing out e-Book
 	 System.out.printf("Book Type: " + eBook + "with %d pages (%s) \n", eBook.pages(), eBook.getFormat());
-	 
-
-	
 
     }
 	
