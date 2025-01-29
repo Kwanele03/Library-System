@@ -11,8 +11,7 @@ public class Ebook extends Book {
 	}
 	
 	@Override
-	public String getTitle() {
-		
+	public String getTitle() {	
 		return this.format;
 	}
 	
