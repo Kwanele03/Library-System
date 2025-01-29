@@ -2,8 +2,7 @@ package package1;
 
 public class AudioBook extends Book {
 	
-	public int audioLength;
-	
+	private int audioLength;
 	
 	//AudioBook constructor with parameters of a Book class
 	AudioBook (String title, String author, int year, int audioLength){	
@@ -15,5 +14,4 @@ public class AudioBook extends Book {
 	public int getLength() {
 		return this.audioLength;
 	}
-
 }
